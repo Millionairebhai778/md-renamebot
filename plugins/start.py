@@ -21,7 +21,7 @@ async def start(bot, message):
                InlineKeyboardButton('⚡𝐎𝐖𝐍𝐄𝐑⚡', url='https://t.me/FILMWORLDOFFICIA'),
                InlineKeyboardButton('♻𝐂𝐇𝐀𝐍𝐍𝐄𝐋♻', url='https://t.me/FILMWORLDOFFI')
              ],[
-                InlineKeyboardButton('🚀Repo🚀', url='https://github.com/Greymattersbot/md-renamebot')
+                InlineKeyboardButton('🚀𝐑𝐞𝐩𝐨🚀', url='https://t.me/kurachkanjiedukkatte/8')
              ]]
    ))
                             
@@ -65,10 +65,10 @@ async def cb_handler(client: Client , query: CallbackQuery):
              [[
                InlineKeyboardButton("♦️ Help", callback_data = "help")
              ],[
-               InlineKeyboardButton('📢 Update Channel', url='https://t.me/GreyMatter_Bots'),
-               InlineKeyboardButton('♻️ Suppot Group', url='https://t.me/GreyMatters_Bots_Discussion')
+               InlineKeyboardButton('⚡𝐎𝐖𝐍𝐄𝐑⚡', url='https://t.me/FILMWORLDOFFICIA'),
+               InlineKeyboardButton('♻𝐂𝐇𝐀𝐍𝐍𝐄𝐋♻', url='https://t.me/FILMWORLDOFFI')
              ],[
-                InlineKeyboardButton('📃 Source code', url='https://github.com/Greymattersbot/md-renamebot')
+                InlineKeyboardButton('🚀𝐑𝐞𝐩𝐨🚀', url='https://t.me/kurachkanjiedukkatte/8')
              ]]
         ))
         
@@ -99,7 +99,7 @@ async def cb_handler(client: Client , query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup(
             [[
-              InlineKeyboardButton('📃 Source code', url='https://github.com/Greymattersbot/md-renamebot')
+              InlineKeyboardButton('📃 Source code', url='https://t.me/kurachkanjiedukkatte/8')
             ],[
               InlineKeyboardButton('Back', callback_data = "help"),
             ]]
