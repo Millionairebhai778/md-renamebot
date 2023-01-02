@@ -18,10 +18,10 @@ async def start(bot, message):
              [[
                InlineKeyboardButton("♦️ Help", callback_data = "help")
              ],[
-               InlineKeyboardButton('📢 Update Channel', url='https://t.me/GreyMatter_Bots'),
-               InlineKeyboardButton('♻️ Suppot Group', url='https://t.me/GreyMatters_Bots_Discussion')
+               InlineKeyboardButton('⚡𝐎𝐖𝐍𝐄𝐑⚡', url='https://t.me/FILMWORLDOFFICIA'),
+               InlineKeyboardButton('♻𝐂𝐇𝐀𝐍𝐍𝐄𝐋♻', url='https://t.me/FILMWORLDOFFI')
              ],[
-                InlineKeyboardButton('📃 Source code', url='https://github.com/Greymattersbot/md-renamebot')
+                InlineKeyboardButton('🚀Repo🚀', url='https://github.com/Greymattersbot/md-renamebot')
              ]]
    ))
                             
